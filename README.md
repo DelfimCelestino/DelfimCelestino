@@ -33,4 +33,4 @@
 
 > "This repository is a ✨ special ✨ one because it appears on your GitHub profile!"
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DelfimCelestino&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=delfimcelestino&show_icons=true&theme=radical)
