@@ -8,7 +8,7 @@
 - AI and Machine Learning
 - Docker and DevOps
 
-## 🌱 I’m currently learning
+## 🌱 I’m currently Working with
 - React Native with Expo
 - Advanced Docker for Node.js/Next.js Apps
 - Automating tasks with Node.js
