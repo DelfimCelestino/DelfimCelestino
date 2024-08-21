@@ -19,9 +19,9 @@
 - AI-driven solutions for startups
 
 ## 📫 How to reach me
-- Email: delfim.celestino@example.com
-- LinkedIn: [DelfimCelestino](linkedin.com/in/delfim-celestino-6187252b4)
-- Twitter: [@DelfimCelestino]([https://twitter.com/DelfimCelestino](https://x.com/DCelestino_258))
+- Email: [DelfimCelestino](mailto:delfimcelestinoamissepastola@gmail.com)
+- LinkedIn: [DelfimCelestino](https://linkedin.com/in/delfim-celestino-6187252b4)
+- Twitter: [@DelfimCelestino](https://x.com/DCelestino_258)
 
 ## 😄 Pronouns
 - He/Him
